@@ -13,15 +13,29 @@ Complete ROS2 implementation of an autonomous wall-following robot featuring **T
 
 **Tested on real hardware** via The Construct AI's Real Robot Lab.
 
-## 🎬 Live Demo - Real Hardware
+## 🎬 Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/M1bk4puMAvw/maxresdefault.jpg)](https://youtu.be/M1bk4puMAvw)
+### 🎥 Watch the System in Action
 
-> 🎥 **[Watch on YouTube](https://youtu.be/M1bk4puMAvw)** - See the robot autonomously find and follow a wall on real hardware via The Construct AI's Real Robot Lab.
+> Real-world demonstration: **The Construct AI Real Robot Lab**
+
+<table>
+<tr>
+<td align="center" width="100%">
+<a href="https://youtu.be/M1bk4puMAvw">
+<img src="demo/images/01_real_robot_demo.png" width="100%"/><br>
+<b>🎬 ⭐ ROS2 Wall-Following Robot - Real Hardware Demo</b><br>
+<sub>Service + Topic + Action working together on real robot via The Construct AI</sub>
+</a>
+</td>
+</tr>
+</table>
+
+> 🎬 **Click the thumbnail to watch the full video on YouTube**
 
 **Demonstrates:**
 - ✅ Service call (`/find_wall`) for wall alignment
-- ✅ Topic-based control loop for wall following
+- ✅ Topic-based control loop for wall following  
 - ✅ Action server (`/record_odom`) recording path
 - ✅ Real differential drive mobile robot
 - ✅ Live cameras from The Construct lab
