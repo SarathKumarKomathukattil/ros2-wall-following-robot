@@ -1,6 +1,6 @@
 # 🚶 ROS2 Wall-Following Robot
 
-> 📚 **Project from "ROS2 Basics" course - The Construct AI (2026)**
+> 📚 **Project from "ROS2" course - The Construct AI (2026)**
 
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue.svg)](https://docs.ros.org/en/humble/)
 [![Python](https://img.shields.io/badge/Python-3.10-yellow.svg)](https://www.python.org/)
