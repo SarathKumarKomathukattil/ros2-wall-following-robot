@@ -1,6 +1,6 @@
 # 🚶 ROS2 Wall-Following Robot
 
-[![ROS2](https://img.shields.io/badge/ROS2-Humble-blue.svg)](https://docs.ros.org/en/humble/)
+[![ROS2](https://img.shields.io/badge/ROS2-blue.svg)](https://docs.ros.org/en/)
 [![Python](https://img.shields.io/badge/Python-3.10-yellow.svg)](https://www.python.org/)
 [![The Construct](https://img.shields.io/badge/The_Construct-AI-orange.svg)](https://www.theconstruct.ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
