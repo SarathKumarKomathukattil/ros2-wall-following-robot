@@ -9,13 +9,11 @@
 
 Complete ROS2 implementation of an autonomous wall-following robot featuring **Topics**, **Services**, **Actions**, and **Custom Interfaces**. The robot autonomously finds the nearest wall, aligns to it, follows along the wall, and records its odometry path.
 
-**Tested on real hardware** via The Construct AI's Real Robot Lab.
-
 ## 🎬 Demo Video
 
 ### 🎥 Watch the System in Action
 
-> Real-world demonstration: **The Construct AI Real Robot Lab**
+> Real-world demonstration: 
 
 <table>
 <tr>
