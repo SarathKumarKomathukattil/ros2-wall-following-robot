@@ -34,7 +34,7 @@ Complete ROS2 implementation of an autonomous wall-following robot featuring **T
 - ✅ Topic-based control loop for wall following  
 - ✅ Action server (`/record_odom`) recording path
 - ✅ Real differential drive mobile robot
-- ✅ Live cameras from The Construct lab
+- ✅ Live cameras from the test environment
 
 ## 🌟 Key Features
 
@@ -120,13 +120,13 @@ START
 
 ## 🤖 Robot Platform
 
-**Hardware:** Real differential drive mobile robot via The Construct AI
+**Hardware:** Real differential drive mobile robot
 
 **Sensors:**
 - 360° LiDAR sensor
 - Wheel odometry
 
-**Platform:** The Construct AI Real Robot Lab (cloud-based access)
+**Platform:** Robot Lab (cloud-based access)
 
 **Compatibility:** Works with any ROS2 robot publishing:
 - `/scan` (sensor_msgs/LaserScan)
@@ -233,7 +233,7 @@ ros2 action send_goal /record_odom custom_interfaces/action/OdomRecord
 - Multi-node coordination
 - Real hardware deployment
 
-**Testing Platform:** The Construct AI cloud-based Real Robot Lab
+**Testing Platform:** cloud-based Real Robot Lab
 
 ## 📊 Implementation Highlights
 
@@ -274,8 +274,6 @@ This project demonstrates proficiency in:
 ## 🎓 About
 
 **Author:** Sarath Kumar Komathukattil  
-**Course:** ROS2 Basics - The Construct AI (2026)  
-**Certification:** ROS2 Basics Certificate
 
 ## 🔗 Related Work
 
