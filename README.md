@@ -184,7 +184,7 @@ ros2-wall-following-robot/
 ## 🚀 How to Run
 
 ### Prerequisites
-- ROS2 Humble (or compatible distribution)
+- ROS2 (or compatible distribution)
 - Python 3.10+
 - ROS2-compatible mobile robot or simulation
 
@@ -221,7 +221,7 @@ ros2 action send_goal /record_odom custom_interfaces/action/OdomRecord
 
 ## 🛠️ Tech Stack
 
-**Framework:** ROS2 Humble  
+**Framework:** ROS2 
 **Language:** Python
 
 **ROS2 Concepts Demonstrated:**
